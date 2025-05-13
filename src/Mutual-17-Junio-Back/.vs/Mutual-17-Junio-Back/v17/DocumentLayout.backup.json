@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\mutual-17-junio-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\mutual-17-junio-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mutual-17-Junio-Back.csproj",
+              "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj",
+              "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj",
+              "ToolTip": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj",
+              "RelativeToolTip": "Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T00:22:35.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

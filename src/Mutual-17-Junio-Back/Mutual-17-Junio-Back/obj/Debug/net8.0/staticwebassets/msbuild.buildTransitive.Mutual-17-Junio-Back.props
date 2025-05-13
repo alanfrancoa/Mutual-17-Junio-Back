@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mutual-17-Junio-Back.props" />
+</Project>

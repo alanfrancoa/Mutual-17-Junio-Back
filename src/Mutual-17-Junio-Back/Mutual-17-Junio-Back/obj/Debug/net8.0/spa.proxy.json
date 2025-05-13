@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
