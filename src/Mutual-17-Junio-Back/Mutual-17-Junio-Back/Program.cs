@@ -30,7 +30,7 @@ namespace Mutual_17_Junio_Back
             {
                 options.AddPolicy("FrontendClient", policy =>
                 {
-                    policy.WithOrigins("http://localhost:61494")// el origen de React, actualizar con el puerto correcto
+                    policy.WithOrigins("http://localhost:7069")// el origen de React, actualizar con el puerto correcto
                           .AllowAnyHeader()
                           .AllowAnyMethod();
                 });
