@@ -1,0 +1,18 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+*.db-wal
+*.db-shm
+*.vsidx
+*.v2
+
+# Build results
+bin/
+obj/
+
+# Archivos temporales
+*.cache
+*.log
+*.tmp
