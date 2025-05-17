@@ -299,3 +299,4 @@ C:\Users\mcordich\OneDrive - Ataway\Desktop\Mutual-17-Junio-Back\src\Mutual-17-J
 C:\Users\mcordich\OneDrive - Ataway\Desktop\Mutual-17-Junio-Back\src\Mutual-17-Junio-Back\Mutual-17-Junio-Back\obj\Debug\net8.0\Mutual-17-Junio-Back.pdb
 C:\Users\mcordich\OneDrive - Ataway\Desktop\Mutual-17-Junio-Back\src\Mutual-17-Junio-Back\Mutual-17-Junio-Back\obj\Debug\net8.0\Mutual-17-Junio-Back.genruntimeconfig.cache
 C:\Users\mcordich\OneDrive - Ataway\Desktop\Mutual-17-Junio-Back\src\Mutual-17-Junio-Back\Mutual-17-Junio-Back\obj\Debug\net8.0\ref\Mutual-17-Junio-Back.dll
+C:\Users\COCO\OneDrive\Desktop\Mutual-17-Junio-Back\src\Mutual-17-Junio-Back\Mutual-17-Junio-Back\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -7,7 +7,7 @@ namespace Mutual_17_Junio_Back.Models.User
     /* -------------------------- Modelo: User [12-05-2025] -------------------------- */
 
     /* Creacion de la tabla Usuario para la Base de Datos */
-    [Table("Usuario")]
+    [Table("Usuarios")]
     public class User
     {
 
@@ -17,13 +17,13 @@ namespace Mutual_17_Junio_Back.Models.User
         public int Id { get; set;}
 
         [Column("username")]
-        public int Username { get; set; }
+        public string Username { get; set; }
 
         [Column("password_hash")]
-        public int PasswordHash { get; set; }
+        public string PasswordHash { get; set; }
 
         [Column("rol")]
-        public int Rol { get; set; }
+        public string Rol { get; set; }
 
     }
 }

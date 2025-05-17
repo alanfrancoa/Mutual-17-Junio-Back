@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Mutual_17_Junio_Back.Models.User;
+using Mutual_17_Junio_Back.Models.Person;
 
 namespace Mutual_17_Junio_Back.Data
 {
@@ -14,5 +15,7 @@ namespace Mutual_17_Junio_Back.Data
         
         /* Tablas de la Base de datos */
         public DbSet<User> Users { get; set; }
+
+        public DbSet<Person> Persons { get; set; }
     }
 }
