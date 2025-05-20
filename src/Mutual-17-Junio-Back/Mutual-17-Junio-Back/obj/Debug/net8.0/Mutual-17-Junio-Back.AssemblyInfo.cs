@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mutual-17-Junio-Back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b1b25ec35c9399db76eda6f1252da60b9d4587")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e1481c4ca1b0a11ca4525dc4329ae3244053868")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mutual-17-Junio-Back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mutual-17-Junio-Back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

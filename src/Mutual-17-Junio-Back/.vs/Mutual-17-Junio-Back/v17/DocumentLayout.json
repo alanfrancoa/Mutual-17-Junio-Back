@@ -58,12 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -78,8 +74,7 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T00:35:13.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T00:35:13.632Z"
             },
             {
               "$type": "Document",
@@ -91,8 +86,7 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\User\\UserRegister.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA9wBcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T00:35:10.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T00:35:10.226Z"
             },
             {
               "$type": "Document",
@@ -102,7 +96,7 @@
               "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Models\\User\\User.cs",
               "ToolTip": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\User\\User.cs",
               "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\User\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T00:35:05.701Z",
               "EditorCaption": ""
@@ -117,8 +111,7 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\Person\\PersonRegister.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:16:44.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T01:16:44.652Z"
             },
             {
               "$type": "Document",
@@ -130,8 +123,7 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\Person\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:13:00.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T01:13:00.755Z"
             },
             {
               "$type": "Document",
@@ -143,8 +135,7 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T02:44:51.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T02:44:51.479Z"
             },
             {
               "$type": "Document",
@@ -156,8 +147,7 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Controllers\\UserController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAiwC0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:03:32.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T01:03:32.583Z"
             },
             {
               "$type": "Document",
@@ -169,8 +159,7 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Program.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAgwCQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T00:35:22.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T00:35:22.736Z"
             },
             {
               "$type": "Document",
@@ -182,8 +171,7 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-16T00:35:30.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T00:35:30.969Z"
             },
             {
               "$type": "Document",

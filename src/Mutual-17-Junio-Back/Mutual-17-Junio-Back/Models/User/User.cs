@@ -10,7 +10,6 @@ namespace Mutual_17_Junio_Back.Models.User
     [Table("Usuarios")]
     public class User
     {
-
         /* Primary Key*/
         [Key] 
         [Column("id")]

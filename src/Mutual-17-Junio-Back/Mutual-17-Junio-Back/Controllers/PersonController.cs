@@ -1,7 +1,9 @@
 ﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.Differencing;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Mutual_17_Junio_Back.Data;
@@ -22,14 +24,45 @@ namespace Mutual_17_Junio_Back.Controllers
             _config = config;
         }
 
+        //[HttpPost("registro")]
+        //public async Task<IActionResult> RegistrarPersona([FromBody] PersonRegister registro)
+        //{
+        //    if (!ModelState.IsValid)
+        //    {
+        //        return BadRequest(ModelState);
+        //    }
+
+        //    var nuevaPersona = new Person
+        //    {
+        //        DniCuit = registro.DniCuit,
+        //        Rol = registro.Rol,
+        //        NombreRazonSocial = registro.NombreRazonSocial,
+        //        Direccion = registro.Direccion,
+        //        Telefono = registro.Telefono,
+        //        Email = registro.Email,
+
+        //        CreatedAt = DateTime.Now,
+        //        UpdatedAt = DateTime.Now,
+        //        Activo = true
+        //    };
+
+        //    _context.Persons.Add(nuevaPersona);
+        //    await _context.SaveChangesAsync();
+
+        //    return Ok(nuevaPersona);
+        //}
+
+        [Authorize(Roles = "Admin")]
         [HttpPost("registro")]
         public async Task<IActionResult> RegistrarPersona([FromBody] PersonRegister registro)
         {
             if (!ModelState.IsValid)
-            {
                 return BadRequest(ModelState);
-            }
 
+            // Obtener el ID del usuario desde el token
+            var idUsuario = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value ?? "0");
+
+            // Crear la persona
             var nuevaPersona = new Person
             {
                 DniCuit = registro.DniCuit,
@@ -38,10 +71,9 @@ namespace Mutual_17_Junio_Back.Controllers
                 Direccion = registro.Direccion,
                 Telefono = registro.Telefono,
                 Email = registro.Email,
-
                 CreatedAt = DateTime.Now,
-                UpdatedAt = DateTime.Now,
-                Activo = true
+                Activo = true,
+                CreatedBy = idUsuario.ToString(), // Guardar el ID del usuario que creó la persona
             };
 
             _context.Persons.Add(nuevaPersona);

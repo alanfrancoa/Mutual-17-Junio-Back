@@ -1,4 +1,4 @@
-
+﻿
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -47,26 +47,45 @@ namespace Mutual_17_Junio_Back
                     ValidateAudience = true,
                     ValidateLifetime = true,
                     ValidateIssuerSigningKey = true,
-                    ValidIssuer = "tuApp",
-                    ValidAudience = "tuApp",
+                    ValidIssuer = "MutualAPI",  
+                    ValidAudience = "MutualClientes",
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("clave-super-secreta-segura-para-jwt-123456"))
+                };
+
+                options.Events = new JwtBearerEvents
+                {
+                    OnAuthenticationFailed = context =>
+                    {
+                        Console.WriteLine("Fallo autenticación JWT: " + context.Exception.Message);
+                        return Task.CompletedTask;
+                    },
+                    OnTokenValidated = context =>
+                    {
+                        Console.WriteLine("Token JWT validado correctamente");
+                        return Task.CompletedTask;
+                    }
                 };
             });
 
+            builder.Services.AddAuthorization(); // 👈 Asegurate de incluir esto
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
 
+            app.UseCors("FrontendClient");
+
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
-
+            app.UseAuthentication();  // 👈 Primero Authentication
+            app.UseAuthorization();   // 👈 Luego Authorization
 
             app.MapControllers();
 

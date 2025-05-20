@@ -27,7 +27,7 @@ namespace Mutual_17_Junio_Back.Models.Person
         public int DniCuit { get; set; }
 
         [Required(ErrorMessage = "El rol es obligatorio.")]
-        [RegularExpression("^(Admin|Socio|Proovedor)$", ErrorMessage = "Rol inválido. Solo se permiten: Admin, Socio, Proovedor.")]
+        [RegularExpression("^(Asociado|Familiar|Proveedor)$", ErrorMessage = "Rol inválido. Solo se permiten: Admin, Socio, Proovedor.")]
         public string Rol { get; set; }
     }
 }

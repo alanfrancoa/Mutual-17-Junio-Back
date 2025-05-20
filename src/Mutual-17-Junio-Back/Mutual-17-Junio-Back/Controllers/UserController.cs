@@ -65,59 +65,7 @@ namespace Mutual_17_Junio_Back.Controllers
 
             return Ok(new { token });//solamente retornara un token q sera guardado temporalmente en una session
         }
-        //[HttpPost("login")]//Version de login simpre
-        //public async Task<IActionResult> Login([FromBody] UsuarioLogin login)
-        //{
-        //    var usuario = await _context.Usuarios
-        //        .FirstOrDefaultAsync(p => p.Username == login.Username);
 
-        //    if (usuario == null)
-        //    {
-        //        return Unauthorized(new { mensaje = "Usuario no encontrado" });
-        //    }
-
-        //    // Comparar hashes directamente si ya están hasheados
-        //    if (usuario.PasswordHash != login.PasswordHash)
-        //    {
-        //        return Unauthorized(new { mensaje = "Contraseña incorrecta" });
-        //    }
-
-        //    // Opcional: Generar token JWT o retornar datos básicos
-        //    return Ok(new
-        //    {
-        //        mensaje = "Login exitoso",
-        //        usuario.Id,
-        //        usuario.Username,
-        //        usuario.Rol
-        //    });
-        //}
-
-        //[HttpPost("login")]//Version de login q verifica contrseña hasheada
-        //public async Task<IActionResult> Login([FromBody] UsuarioLogin login)
-        //{
-        //    var usuario = await _context.Usuarios
-        //        .FirstOrDefaultAsync(p => p.Username == login.Username);
-
-        //    if (usuario == null)
-        //    {
-        //        return Unauthorized(new { mensaje = "Usuario no encontrado" });
-        //    }
-
-        //    // Verificar la contraseña con BCrypt
-        //    bool passwordValida = BCrypt.Net.BCrypt.Verify(login.PasswordHash, usuario.PasswordHash);
-
-        //    if (!passwordValida)
-        //    {
-        //        return Unauthorized(new { mensaje = "Contraseña incorrecta" });
-        //    }
-
-        //    return Ok(new
-        //    {
-        //        usuario.Id,
-        //        usuario.Username,
-        //        usuario.Rol
-        //    });
-        //}
         private string GenerarJwtToken(IEnumerable<Claim> claims)//genera un token, y en este se ingresaran los datos q este en Claim
         {
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
