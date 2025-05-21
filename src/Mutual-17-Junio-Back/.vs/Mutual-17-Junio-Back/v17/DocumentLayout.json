@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\models\\person\\personlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\models\\person\\personlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\models\\user\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\models\\user\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +19,20 @@
       "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\models\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\models\\person\\personregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\models\\person\\personregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\models\\person\\personregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\models\\person\\personregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\models\\user\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\models\\user\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\models\\user\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|solutionrelative:mutual-17-junio-back\\models\\user\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{594225CE-7BFE-401C-9ED5-7306046ED203}|Mutual-17-Junio-Back\\Mutual-17-Junio-Back.csproj|c:\\users\\coco\\onedrive\\desktop\\mutual-17-junio-back\\src\\mutual-17-junio-back\\mutual-17-junio-back\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,56 +66,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Mutual-17-Junio-Back\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T04:35:45.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserLogin.cs",
-              "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
-              "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
-              "ToolTip": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
-              "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T00:35:13.632Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PersonList.cs",
+              "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\Person\\PersonList.cs",
+              "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Models\\Person\\PersonList.cs",
+              "ToolTip": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\Person\\PersonList.cs",
+              "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\Person\\PersonList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:09:00.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Controllers\\PersonController.cs",
               "ToolTip": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Controllers\\PersonController.cs",
               "RelativeToolTip": "Mutual-17-Junio-Back\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwv1QAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwIEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:11:14.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T01:11:14.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PersonRegister.cs",
               "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\Person\\PersonRegister.cs",
               "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Models\\Person\\PersonRegister.cs",
@@ -127,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Controllers\\UserController.cs",
@@ -139,19 +122,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\Person\\Person.cs",
               "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Models\\Person\\Person.cs",
               "ToolTip": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\Person\\Person.cs",
               "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\Person\\Person.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T01:13:00.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Program.cs",
               "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Program.cs",
@@ -163,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "UserRegister.cs",
               "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\User\\UserRegister.cs",
               "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Models\\User\\UserRegister.cs",
@@ -172,6 +155,18 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAgwBcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T00:35:10.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\COCO\\OneDrive\\Desktop\\Mutual-17-Junio-Back\\src\\Mutual-17-Junio-Back\\Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
+              "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:35:13.632Z"
             },
             {
               "$type": "Document",

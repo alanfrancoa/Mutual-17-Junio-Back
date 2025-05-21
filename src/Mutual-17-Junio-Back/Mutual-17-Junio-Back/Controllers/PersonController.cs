@@ -104,10 +104,29 @@ namespace Mutual_17_Junio_Back.Controllers
         }
 
 
-        [HttpGet("personas")]//Todas las personas
+        //[HttpGet("personas")]//Todas las personas y todos sus datos
+        //public async Task<IActionResult> GetPersonas()
+        //{
+        //    var personas = await _context.Persons.ToListAsync();
+        //    return Ok(personas);
+        //}
+
+        [HttpGet("personas")]//Todas las personas y datos eleigos en PersonList
         public async Task<IActionResult> GetPersonas()
         {
-            var personas = await _context.Persons.ToListAsync();
+            var personas = await _context.Persons
+                .Select(p => new PersonList
+                {
+                    Id = p.Id,
+                    DniCuit = p.DniCuit,
+                    NombreRazonSocial = p.NombreRazonSocial,
+                    Direccion = p.Direccion,
+                    Telefono = p.Telefono,
+                    Email = p.Email,
+                    Rol = p.Rol
+                })
+                .ToListAsync();
+
             return Ok(personas);
         }
 
