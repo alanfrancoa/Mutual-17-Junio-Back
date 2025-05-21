@@ -78,6 +78,9 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\User\\UserLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-05-13T01:32:41.138Z"
+=======
               "WhenOpened": "2025-05-16T00:35:13.632Z",
               "EditorCaption": ""
             },
@@ -93,6 +96,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T00:35:10.226Z",
               "EditorCaption": ""
+>>>>>>> 0e1481c4ca1b0a11ca4525dc4329ae3244053868
             },
             {
               "$type": "Document",
@@ -104,6 +108,9 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Models\\User\\User.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-05-13T01:31:11.543Z"
+=======
               "WhenOpened": "2025-05-16T00:35:05.701Z",
               "EditorCaption": ""
             },
@@ -145,6 +152,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T02:44:51.479Z",
               "EditorCaption": ""
+>>>>>>> 0e1481c4ca1b0a11ca4525dc4329ae3244053868
             },
             {
               "$type": "Document",
@@ -156,6 +164,9 @@
               "RelativeToolTip": "Mutual-17-Junio-Back\\Controllers\\UserController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAiwC0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-05-13T01:26:12.45Z"
+=======
               "WhenOpened": "2025-05-16T01:03:32.583Z",
               "EditorCaption": ""
             },
@@ -220,6 +231,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-13T00:22:35.493Z"
+>>>>>>> 0e1481c4ca1b0a11ca4525dc4329ae3244053868
             }
           ]
         }
