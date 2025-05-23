@@ -34,6 +34,7 @@ namespace Mutual_17_Junio_Back.Controllers
                 Username = registro.Username,
                 PasswordHash = hashedPassword,
                 Rol = registro.Rol,
+                CreatedAt = DateTime.Now,
             };
 
             _context.Users.Add(nuevaUsuario);

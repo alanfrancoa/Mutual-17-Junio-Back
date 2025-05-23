@@ -253,7 +253,7 @@
           },
           "rol": {
             "minLength": 1,
-            "pattern": "^(Admin|Socio|Proovedor)$",
+            "pattern": "^(Asociado|Familiar|Proveedor)$",
             "type": "string"
           }
         },

@@ -7,7 +7,7 @@ namespace Mutual_17_Junio_Back.Models.User
     /* -------------------------- Modelo: User [12-05-2025] -------------------------- */
 
     /* Creacion de la tabla Usuario para la Base de Datos */
-    [Table("Usuarios")]
+    [Table("USUARIO")]
     public class User
     {
         /* Primary Key*/
@@ -24,5 +24,10 @@ namespace Mutual_17_Junio_Back.Models.User
         [Column("rol")]
         public string Rol { get; set; }
 
+        [Column("created_at")]
+        public DateTime CreatedAt { get; set; }
+
+        [Column("updated_at")]
+        public DateTime? UpdateAt { get; set; }
     }
 }
